@@ -16,6 +16,12 @@ ruby main.rb
 ## Notes
 This program has been created without any prior knowledge of music theory. It may evolve as the author learns. Please note that this program may contain errors or limitations. If you encounter any issues or have any suggestions, feel free to contact the author.
 
+I'm using this scheme: 
+
+![Notes](pf-18d5f459--HarmonicaNotes1.webp)
+
+Source: [playmusic123](https://www.playmusic123.com/blogs/news/harmonica-notes)
+
 ## License
 This program is available under the MIT License. See the LICENSE file for more details.
 
